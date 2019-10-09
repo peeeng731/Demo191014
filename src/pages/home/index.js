@@ -8,7 +8,7 @@ class Home extends Component {
     render() { 
         return ( 
             <div className="home-wrap">
-                宋少鹏
+                This is Home Page
             </div>
          );
     }

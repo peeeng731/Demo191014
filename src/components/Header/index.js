@@ -12,12 +12,12 @@ class Header extends Component {
         this.setState({
             userName:'ssp'
         })
-        setInterval(()=>{
+        /* setInterval(()=>{
             let sysTime = Util.formateDate(new Date().getTime());
             this.setState({
                 sysTime
             })
-        },1000)
+        },1000) */
     }
     render() { 
         return ( 
