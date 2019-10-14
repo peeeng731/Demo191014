@@ -4,7 +4,7 @@ class Login extends Component {
     render() { 
         return ( 
             <div>
-                404 No Found!
+                404 No Found! -暂无开发- 
             </div>
          );
     }

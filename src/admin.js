@@ -5,7 +5,6 @@ import Header from './components/Header'
 import Footer from './components/Footer'
 import NavLeft from './components/Navleft'
 import './style/common.less'
-import Home from './pages/home'
 
 class Main extends Component {
     constructor(props) {

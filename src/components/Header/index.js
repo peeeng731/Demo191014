@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Row , Col } from 'antd';
 import './index.less'
-import Util from '../../utils/utils'
 class Header extends Component {
     /* constructor(props) {
         super(props);
