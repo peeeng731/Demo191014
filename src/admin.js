@@ -15,10 +15,10 @@ class Main extends Component {
         return ( 
             <div>
                 <Row className='container'>
-                    <Col span={3} className='nav-left'>
+                    <Col span={2} className='nav-left'>
                         <NavLeft></NavLeft>
                     </Col>
-                    <Col span={21} className='main'>
+                    <Col span={22} className='main'>
                         <Header></Header>
                         <Row className='content'>
                             {/* <Home/> */}

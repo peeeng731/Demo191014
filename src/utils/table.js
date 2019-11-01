@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import axios from '../../../axios';
+import axios from '../axios/index';
 import { Card,Table,Button,Modal,message} from 'antd';
-import Utils from './../../../utils/utils';
+import Utils from './utils';
 
 class BasicTable extends Component {
     state={}
